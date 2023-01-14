@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "milk"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "item": "Creacker"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "cookie"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "item": "bob"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "item": "aaaaa"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "item": "ㅁㅁㅁㅁ"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "item": "ㅃ"
+    }
+  ]
+}
